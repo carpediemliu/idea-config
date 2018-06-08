@@ -1,0 +1,7 @@
+<templateSet group="java class">
+  <template name="**" value="/**&#10; * Created by liuyukun.&#10; */" shortcut="ENTER" description="方法注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,48 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1527820280309" />
+    <property name="PLUGIN_FILTER" value="my&#10;myba&#10;lombok&#10;lombo&#10;lom" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="D:/platform-infra/pom.xml&#10;D:/github/symphony&#10;D:/apache-tomcat-7.0.88&#10;D:/github/symphony/pom.xml&#10;D:/github/mblog&#10;C:/Program Files/Java/jdk1.8.0_171&#10;C:/Users/admin/Desktop&#10;D:/github/design-pattern&#10;D:/platform_compiler&#10;C:/Users/admin/Downloads/lombok-plugin-0.16.zip&#10;D:/platform/pom.xml&#10;D:/platform&#10;D:/workspace/platform-infra&#10;D:/platform-infra&#10;D:/微信存储文件/WeChat Files/alwaysbestLiu/Files/lombok-plugin-0.16.zip&#10;D:/spring_in_action&#10;D:/spring in action&#10;C:/Users/admin/Downloads/TranslationPlugin-2.0.3.zip&#10;D:/&#10;D:/platform/platform-oapi/core-enterprise-web-oapi/pom.xml&#10;D:/platform/platform-security/security-seal-service/pom.xml&#10;C:/Users/admin/.m2/settings.xml&#10;C:/Users/admin/Documents/WeChat Files/alwaysbestLiu/Files/lombok-plugin-0.16.zip&#10;C:/Program Files/Java/jdk1.7.0_80" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="evlsprt3.173" value="15" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="46" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="last.imported.location" value="D:/platform-infra/pom.xml" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="file.gist.reindex.count" value="15057" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="SearchEveryWhereHistory" value="r&#10;getAccessKey&#10;create table&#10;/symphony/register&#10;mail.sendcloud.apiKey" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="207" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10840108" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10840108" />
+    <property name="selected.color.option.type" value="METHOD_SEPARATORS_COLOR" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7152062" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="INSPECTION_FILTER_HISTORY" value="sql dial&#10;sql&#10;no data sources&#10;no data re" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="export.settings.path" value="C:\Users\admin\Desktop\settings.jar" />
+    <property name="#xdebugger.evaluate.splitter" value="0.2354049" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+  </component>
+</application>

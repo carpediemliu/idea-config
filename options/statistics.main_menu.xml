@@ -1,0 +1,37 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Analyze -&gt; Analyze Data Flow from Here" count="1" />
+      <entry path="Analyze -&gt; Analyze Data Flow to Here" count="1" />
+      <entry path="Build -&gt; Build Project" count="7" />
+      <entry path="Build -&gt; Rebuild Project" count="2" />
+      <entry path="File -&gt; Close Project" count="12" />
+      <entry path="File -&gt; Exit" count="1" />
+      <entry path="File -&gt; Export Settings..." count="1" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; New -&gt; Module..." count="1" />
+      <entry path="File -&gt; New -&gt; Open..." count="1" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="10" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; CVS" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="3" />
+      <entry path="File -&gt; New -&gt; Project..." count="3" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
+      <entry path="File -&gt; Open..." count="9" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="4" />
+      <entry path="File -&gt; Project Structure..." count="17" />
+      <entry path="File -&gt; Settings..." count="69" />
+      <entry path="Help -&gt; Find Action..." count="5" />
+      <entry path="Help -&gt; Help" count="2" />
+      <entry path="Navigate -&gt; Call Hierarchy" count="3" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Debug" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Maven Projects" count="4" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Run" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="1" />
+      <entry path="Window -&gt; Restore Default Layout" count="2" />
+      <entry path="Window -&gt; Store Current Layout as Default" count="2" />
+    </counts>
+  </component>
+</application>

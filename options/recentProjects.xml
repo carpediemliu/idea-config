@@ -1,0 +1,105 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/platform-infra" />
+        <option value="D:/platform" />
+        <option value="D:/github/symphony" />
+        <option value="D:/github/mblog" />
+        <option value="D:/github/design-pattern" />
+        <option value="D:/workspace/platform-infra" />
+        <option value="D:/spring_in_action" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/platform" />
+        <option value="D:/platform-infra" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/platform-infra" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/github/design-pattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526633100428" />
+              <option name="buildTimestamp" value="1514220678623" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/github/mblog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528281565576" />
+              <option name="buildTimestamp" value="1514220718576" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/github/symphony">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528378299083" />
+              <option name="buildTimestamp" value="1514220718576" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/platform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528441330487" />
+              <option name="buildTimestamp" value="1514220700760" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/platform-infra">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528441330487" />
+              <option name="buildTimestamp" value="1514220700760" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/spring_in_action">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525848159315" />
+              <option name="buildTimestamp" value="1514220711783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/workspace/platform-infra">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525858229686" />
+              <option name="buildTimestamp" value="1514220711783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/" />
+  </component>
+</application>

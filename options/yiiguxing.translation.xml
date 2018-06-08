@@ -1,0 +1,56 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="同步我的配置" />
+      <item value="同步" />
+      <item value="Intelij IDEA" />
+      <item value="修改 cook 包中引用的 tk . mybatis . spring . mapper . Mapper Scanner Configurer 保证载入正常" />
+      <item value="var 4" />
+      <item value="cook" />
+      <item value="Loan" />
+      <item value="Bill Loan Web Bridge" />
+      <item value="opt JSON Object" />
+      <item value="Signature Nonce" />
+      <item value="get String To Mail By List" />
+      <item value="enable" />
+      <item value="starttls" />
+      <item value="eml" />
+      <item value="access Secret" />
+      <item value="access Key" />
+      <item value="记录生活" />
+      <item value="liferecording" />
+      <item value="life" />
+      <item value="lifecoding" />
+      <item value="素数" />
+      <item value="乘法" />
+      <item value="架构师" />
+      <item value="gen Query Request" />
+      <item value="get Bill List With Account" />
+      <item value="更改开单状态" />
+      <item value="Origin Debt Info" />
+      <item value="get By Enterprise Name" />
+      <item value="Preconditions" />
+      <item value="get Original Debt Status By Tab" />
+      <item value="List" />
+      <item value="Origin Debt Status Enum" />
+      <item value="is Chain Company Relation" />
+      <item value="abandon" />
+      <item value="Origin Debt" />
+      <item value="query Origin Debt" />
+      <item value="bill" />
+      <item value="get By Open Bill Type" />
+      <item value="get By Invitation Code" />
+      <item value="process Batch" />
+      <item value="string values are compared using '==' not 'equals()'" />
+      <item value="request . get Handle Type ()" />
+      <item value="populate" />
+      <item value="Context Strategy Factory" />
+      <item value="execute Batch" />
+      <item value="multipart" />
+      <item value="consumes" />
+      <item value="合同签署日期" />
+      <item value=" Result Maps collection already contains value for com.ncf.supplychain.biz.service.gen.OriginDebtMapper.BaseResultMap &#9;at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1578)" />
+      <item value="唯一性校验" />
+    </histories>
+  </component>
+</application>
